@@ -1,0 +1,10 @@
+﻿F8160_1_1script details.xml,Passed,10
+Link to Community Compass.xml,Passed,40
+Research only Mode is set.xml,Passed,30
+F8161_2_1script details.xml,Failed,80
+F8161_2_2script details - Copy.xml,Failed,40
+F8161_3_1.xml,Passed,40
+F9885_1_1first script.xml,Passed,10
+F9885_1_2second script.xml,Failed,30
+F9885_2_1some details for second FR.xml,Passed,50
+F9885_2_2some other details for second FR - Copy.xml,Passed,70
